@@ -2,7 +2,6 @@ from tkinter import CASCADE
 import uuid
 
 from django.db import models
-from django.forms import DateTimeField
 
 from users.models import Base, User
 from accommodations.models import Accommodation
